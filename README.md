@@ -231,6 +231,8 @@ sudo apt install ripgrep
 # See https://github.com/BurntSushi/ripgrep#installation
 ```
 
+> Note: the `frontend/` directory in this repo is an experimental TanStack Start scaffold that is not yet wired up to the CLI.
+
 ## How It Works
 
 ### Function Analysis

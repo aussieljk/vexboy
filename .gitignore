@@ -17,3 +17,5 @@ count.txt
 .output
 .vinxi
 todos.json
+.env.*
+.convex-spec-temp.json
