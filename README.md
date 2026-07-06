@@ -1,3 +1,18 @@
+# vexboy (moved)
+
+> ⚠️ **This repository has been merged and is no longer the source of truth.**
+>
+> `vexboy` now lives in the `cint` codebase, which became the canonical
+> foundation, and is **published to npm as [`vexboy`](https://www.npmjs.com/package/vexboy)**.
+>
+> - Install: `npm i -g vexboy`
+> - Source & issues: **https://github.com/aussieljk/cint**
+>
+> The original code below is kept for historical reference only. Please do not
+> open PRs against this repo — use the merged codebase instead.
+
+---
+
 # vexboy
 
 > Analyze Convex function and schema usage in your codebase
