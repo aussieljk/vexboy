@@ -1,6 +1,6 @@
 {
   "name": "vexboy",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.0",
   "description": "Analyze Convex function and schema usage in your codebase",
   "type": "module",
   "bin": {
